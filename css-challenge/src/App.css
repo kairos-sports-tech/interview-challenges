@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(229, 233, 244);
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.App {
+  background-color: rgb(229, 233, 244);
+  padding: 40px;
+}
+
+.Container {
+  align-items: center;
+  background-color: rgb(62, 126, 184);
+  border-radius: 25px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  font-weight: bold;
+  padding: 40px;
+}

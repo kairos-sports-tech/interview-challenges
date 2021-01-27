@@ -1,0 +1,22 @@
+{
+  "name": "javascript-challenge",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "format": "prettier --write **/*.{js,md}",
+    "test": "jest"
+  },
+  "prettier": {
+    "trailingComma": "all",
+    "singleQuote": true,
+    "semi": true,
+    "proseWrap": "always"
+  },
+  "dependencies": {
+    "casual": "^1.6.2",
+    "date-fns": "^2.16.1",
+    "jest": "^26.6.3",
+    "moment": "^2.29.1",
+    "prettier": "^2.2.1"
+  }
+}
