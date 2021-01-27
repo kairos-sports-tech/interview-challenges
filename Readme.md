@@ -1,8 +1,10 @@
 # Coding challenges
 
-In this repository there are two directories each containing a different coding challenge.
+In this repository there are three directories each containing a different coding challenge.
 
 Each challenge also includes a readme which provides details about what we would like you to do.
+
+Please have a read of each, then _pick two to complete_ (No bonus points are given for completing all three.)
 
 You should:
 
