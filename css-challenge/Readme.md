@@ -51,6 +51,8 @@ Heres what we are looking for to figure out if this is a good solution:
 Here are some things you _shouldn't_ do
 
 - Set up a linting framework
+- Spend _any_ time getting it to work in internet explorer
+- Spend time supporting outdated browser features, if it is supported in the latest Chrome, Firefox / Safari and the mobile versions you are good to go
 - Spend _any_ time manually formatting your code (get the computer to do this
   for you)
 - Get someone else to do this for you (we follow up with an in-person exercise)
