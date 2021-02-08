@@ -17,7 +17,7 @@ an actual browser.
 Your finished piece doesn't need to be fully responsive, but it shouldn't
 completely explode on smaller screen sizes.
 
-You don't need to worry about finding the exact font thats used (you could
+You don't need to worry about finding the exact font that's used (you could
 probably pick something nicer than <span style="font-family:serif">Times New
 Roman</span> 😉).
 
@@ -38,11 +38,11 @@ The page will automatically update if you make edits.
 
 ### `npm run format`
 
-This will format your code automiatically.
+This will format your code automatically.
 
 ## Evaluation criteria
 
-Heres what we are looking for to figure out if this is a good solution:
+Here's what we are looking for to figure out if this is a good solution:
 
 - Does it look like goal.png
 - Do your css class names help to understand your styling

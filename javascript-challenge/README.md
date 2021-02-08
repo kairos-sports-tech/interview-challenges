@@ -1,4 +1,4 @@
-# CSS challenge
+# Javascript challenge
 
 ## Task
 
@@ -33,13 +33,15 @@ Run the tests that verify your implementations.
 
 ### `npm run format`
 
-This will format your code automiatically.
+This will format your code automatically.
 
 ## Evaluation criteria
 
-Heres what we are looking for to figure out if this is a good solution:
+Here's what we are looking for to figure out if this is a good solution:
 
+- How have you structured your code
 - Have you written any tests
 - Do all your tests pass
 - Do you handle edges cases
+- Does your testcase naming help you understand the what and why of what's being tested
 - Does your code use easy to understand variable names?
