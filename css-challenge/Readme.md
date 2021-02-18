@@ -11,11 +11,10 @@ In the `src` folder there are three files: `index.js` which you can ignore,
 
 You sould edit the `App.css` and `App.js` files.
 
-You don't need to be pixel perfect, the goal is to get something which works in
-an actual browser.
+You don't need to be pixel perfect its ok if the font sizes and spacing are slightly different, but try to match the design closely. 
 
 Your finished piece doesn't need to be fully responsive, but it shouldn't
-completely explode on smaller screen sizes.
+completely explode on smaller or larger screen sizes.
 
 You don't need to worry about finding the exact font that's used (you could
 probably pick something nicer than <span style="font-family:serif">Times New
