@@ -42,7 +42,7 @@ const groupEventsByDay = (events) => {
 
   Example:
   ```
-  eventsByDay(
+  moveEventToDay(
     {
       0: [
         { id: 106, startsAt: '2021-01-27T13:01:11Z',  endsAt: '2021-01-27T15:01:11Z',  title: 'Daily walk' },      
