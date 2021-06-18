@@ -4,7 +4,7 @@
 
 We would like you to implement the following design concept:
 
-<img src="./src/goal.png" />
+<img height="400" src="./src/goal.png" />
 
 In the `src` folder there are three files: `index.js` which you can ignore,
 `App.css` and `App.js`.
@@ -19,6 +19,8 @@ completely explode on smaller or larger screen sizes.
 You don't need to worry about finding the exact font that's used (you could
 probably pick something nicer than <span style="font-family:serif">Times New
 Roman</span> 😉).
+
+Please add some screenshots demonstrating your work too.
 
 ## Setup
 
