@@ -43,5 +43,6 @@ Here's what we are looking for to figure out if this is a good solution:
 - Have you written any tests
 - Do all your tests pass
 - Do you handle edges cases
-- Does your testcase naming help you understand the what and why of what's being tested
+- Does your testcase naming help you understand the what and why of what's being
+  tested
 - Does your code use easy to understand variable names?
